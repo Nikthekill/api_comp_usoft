@@ -9,7 +9,7 @@ import java.net.MalformedURLException;
 import java.net.URL;
 
 // The Java class will be hosted at the URI path "/helloworld"
-@Path("/helloworld")
+@Path("/apicomp")
 public class HelloWorld {
     public HelloWorld() throws IOException {
     }
